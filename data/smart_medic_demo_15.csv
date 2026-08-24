@@ -1,0 +1,16 @@
+Patient_Name,Age,SpO2,Heart_Rate,Respiratory_Rate,Systolic_BP,Consciousness,Bleeding,Pain_Level,Arrival_Time
+Nitin Gupta,55,95,84,18,130,Normal,None,8,27-08-2026 08:04
+Madhav Kumar,75,100,130,18,127,Moderate,Mild,1,27-08-2026 08:14
+Priya Pillai,73,96,93,14,134,Normal,None,9,27-08-2026 08:19
+Sunil Dixit,56,97,143,22,73,Moderate,None,3,27-08-2026 08:39
+Swati Sharma,65,91,112,32,135,Moderate,None,5,27-08-2026 09:01
+Sunita Mishra,60,88,135,31,140,Moderate,Mild,9,27-08-2026 09:36
+Harish Jain,70,88,154,10,78,Unresponsive,None,0,27-08-2026 10:10
+Anjali Agarwal,63,98,67,14,120,Normal,None,1,27-08-2026 10:30
+Lata Yadav,77,95,157,26,83,Moderate,Severe,9,27-08-2026 10:44
+Sita Pillai,35,92,136,27,175,Moderate,Moderate,7,27-08-2026 10:51
+Anil Chauhan,47,96,149,26,73,Moderate,Severe,10,27-08-2026 11:03
+Rekha Yadav,45,91,160,18,120,Severe,None,1,27-08-2026 11:11
+Rohan Pillai,64,94,102,21,107,Normal,Mild,3,27-08-2026 11:13
+Karan Mishra,36,90,112,25,91,Normal,Moderate,5,27-08-2026 11:39
+Rahul Thakur,62,100,74,12,127,Normal,None,0,27-08-2026 12:47

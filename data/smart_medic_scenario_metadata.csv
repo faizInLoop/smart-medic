@@ -1,0 +1,151 @@
+Patient_Name,Scenario_Category,Scenario_Description
+Nitin Gupta,Scenario K,Borderline case (Pain_8)
+Madhav Kumar,Scenario A,"Completely stable patient, normal vitals"
+Priya Pillai,Scenario J,High pain but stable vitals
+Sunil Dixit,Scenario I,Severe hypotension
+Preeti Iyer,Scenario C,"Moderate urgency, several moderate abnormalities"
+Anjali Chauhan,Scenario A,"Completely stable patient, normal vitals"
+Aakash Reddy,Scenario A,"Completely stable patient, normal vitals"
+Bhavna Patel,Scenario H,Extreme heart rate
+Ashish Patel,Scenario B,Mildly abnormal patient
+Ravi Thakur,Scenario I,Severe hypotension
+Aarti Mishra,Scenario A,"Completely stable patient, normal vitals"
+Bhavna Kumar,Scenario B,Mildly abnormal patient
+Saurabh Sharma,Scenario A,"Completely stable patient, normal vitals"
+Ritu Bose,Scenario B,Mildly abnormal patient
+Sunil Agarwal,Scenario C,"Moderate urgency, several moderate abnormalities"
+Nitin Pillai,Scenario A,"Completely stable patient, normal vitals"
+Vikas Bose,Scenario B,Mildly abnormal patient
+Rajesh Agarwal,Scenario J,High pain but stable vitals
+Anjali Kapur,Scenario D,High-severity but non-critical
+Ajay Pillai,Scenario D,High-severity but non-critical
+Deepak Patel,Scenario B,Mildly abnormal patient
+Surya Ahuja,Scenario C,"Moderate urgency, several moderate abnormalities"
+Geeta Pillai,Scenario B,Mildly abnormal patient
+Sanjay Sen,Scenario L,Tie case group 3
+Aarav Patel,Scenario K,Borderline case (RR_30)
+Preeti Chaudhary,Scenario B,Mildly abnormal patient
+Vijay Mehta,Scenario B,Mildly abnormal patient
+Jyoti Pillai,Scenario K,Borderline case (Pain_3)
+Nisha Sharma,Scenario C,"Moderate urgency, several moderate abnormalities"
+Aakash Bhat,Scenario C,"Moderate urgency, several moderate abnormalities"
+Jyoti Dixit,Scenario K,Borderline case (HR_150)
+Rahul Nair,Scenario C,"Moderate urgency, several moderate abnormalities"
+Arjun Ahuja,Scenario A,"Completely stable patient, normal vitals"
+Aakash Patel,Scenario A,"Completely stable patient, normal vitals"
+Jyoti Agarwal,Scenario K,Borderline case (SpO2_92)
+Vikram Kumar,Scenario L,Tie case group 4
+Kirti Iyer,Scenario B,Mildly abnormal patient
+Manoj Sen,Scenario D,High-severity but non-critical
+Sunil Ahuja,Scenario A,"Completely stable patient, normal vitals"
+Vijay Desai,Scenario D,High-severity but non-critical
+Rajesh Gupta,Scenario A,"Completely stable patient, normal vitals"
+Punit Agarwal,Scenario A,"Completely stable patient, normal vitals"
+Mohan Yadav,Scenario I,Severe hypotension
+Deepak Verma,Scenario L,Tie case group 3
+Lata Yadav,Scenario F,Severe bleeding with elevated HR and low BP
+Manoj Kumar,Scenario H,Extreme heart rate
+Manoj Bose,Scenario B,Mildly abnormal patient
+Karan Jha,Scenario G,Extremely abnormal SpO2
+Vijay Thakur,Scenario G,Extremely abnormal SpO2
+Ravi Agarwal,Scenario K,Borderline case (Pain_8)
+Vikram Pandey,Scenario A,"Completely stable patient, normal vitals"
+Manoj Gupta,Scenario A,"Completely stable patient, normal vitals"
+Amit Verma,Scenario K,Borderline case (HR_130)
+Deepak Singh,Scenario C,"Moderate urgency, several moderate abnormalities"
+Amit Sen,Scenario A,"Completely stable patient, normal vitals"
+Vikas Kumar,Scenario L,Tie case group 1
+Karthik Agarwal,Scenario B,Mildly abnormal patient
+Priya Verma,Scenario C,"Moderate urgency, several moderate abnormalities"
+Anil Iyer,Scenario D,High-severity but non-critical
+Suresh Malhotra,Scenario L,Tie case group 2
+Saurabh Tiwari,Scenario D,High-severity but non-critical
+Jyoti Sen,Scenario A,"Completely stable patient, normal vitals"
+Nisha Reddy,Scenario A,"Completely stable patient, normal vitals"
+Sita Mishra,Scenario F,Severe bleeding with elevated HR and low BP
+Geeta Thakur,Scenario C,"Moderate urgency, several moderate abnormalities"
+Aarti Yadav,Scenario L,Tie case group 5
+Punit Patel,Scenario I,Severe hypotension
+Ramesh Malhotra,Scenario D,High-severity but non-critical
+Prakash Nair,Scenario H,Extreme heart rate
+Manoj Dixit,Scenario B,Mildly abnormal patient
+Sita Pillai,Scenario D,High-severity but non-critical
+Anil Chauhan,Scenario F,Severe bleeding with elevated HR and low BP
+Rekha Yadav,Scenario A,"Completely stable patient, normal vitals"
+Arjun Rao,Scenario B,Mildly abnormal patient
+Kirti Thakur,Scenario C,"Moderate urgency, several moderate abnormalities"
+Pooja Verma,Scenario A,"Completely stable patient, normal vitals"
+Kishan Chaudhary,Scenario K,Borderline case (SBP_90)
+Saurabh Chaudhary,Scenario B,Mildly abnormal patient
+Punit Ahuja,Scenario A,"Completely stable patient, normal vitals"
+Sunil Nair,Scenario C,"Moderate urgency, several moderate abnormalities"
+Madhav Singh,Scenario I,Severe hypotension
+Kavita Sen,Scenario A,"Completely stable patient, normal vitals"
+Madhav Pandey,Scenario E,Unresponsive patient
+Sunil Mishra,Scenario A,"Completely stable patient, normal vitals"
+Radha Sen,Scenario H,Extreme heart rate
+Rahul Patel,Scenario A,"Completely stable patient, normal vitals"
+Saurabh Mishra,Scenario C,"Moderate urgency, several moderate abnormalities"
+Radha Desai,Scenario A,"Completely stable patient, normal vitals"
+Vikas Mehta,Scenario C,"Moderate urgency, several moderate abnormalities"
+Prakash Mehta,Scenario G,Extremely abnormal SpO2
+Aakash Mishra,Scenario B,Mildly abnormal patient
+Aarav Desai,Scenario C,"Moderate urgency, several moderate abnormalities"
+Vikram Sharma,Scenario A,"Completely stable patient, normal vitals"
+Arjun Pandey,Scenario A,"Completely stable patient, normal vitals"
+Pooja Dixit,Scenario A,"Completely stable patient, normal vitals"
+Gaurav Agarwal,Scenario C,"Moderate urgency, several moderate abnormalities"
+Kiran Iyer,Scenario L,Tie case group 2
+Nitin Reddy,Scenario A,"Completely stable patient, normal vitals"
+Prakash Joshi,Scenario B,Mildly abnormal patient
+Deepak Jha,Scenario C,"Moderate urgency, several moderate abnormalities"
+Saurabh Singh,Scenario B,Mildly abnormal patient
+Karthik Chauhan,Scenario B,Mildly abnormal patient
+Nitin Mishra,Scenario E,Unresponsive patient
+Lata Iyer,Scenario J,High pain but stable vitals
+Gopal Bhat,Scenario E,Unresponsive patient
+Suresh Yadav,Scenario B,Mildly abnormal patient
+Sunita Jha,Scenario K,Borderline case (SBP_90)
+Vijay Tiwari,Scenario C,"Moderate urgency, several moderate abnormalities"
+Arjun Bose,Scenario L,Tie case group 1
+Suresh Rao,Scenario B,Mildly abnormal patient
+Aakash Malhotra,Scenario A,"Completely stable patient, normal vitals"
+Sanjay Kumar,Scenario G,Extremely abnormal SpO2
+Ramesh Joshi,Scenario K,Borderline case (SpO2_88)
+Aditya Reddy,Scenario J,High pain but stable vitals
+Bhavna Tiwari,Scenario F,Severe bleeding with elevated HR and low BP
+Sanjay Chauhan,Scenario K,Borderline case (SpO2_88)
+Sanjay Nair,Scenario A,"Completely stable patient, normal vitals"
+Nitin Nair,Scenario C,"Moderate urgency, several moderate abnormalities"
+Geeta Mehta,Scenario A,"Completely stable patient, normal vitals"
+Swati Bose,Scenario L,Tie case group 5
+Anita Sharma,Scenario F,Severe bleeding with elevated HR and low BP
+Sanjay Joshi,Scenario E,Unresponsive patient
+Sanjay Ahuja,Scenario K,Borderline case (Pain_8)
+Anita Nair,Scenario B,Mildly abnormal patient
+Meena Thakur,Scenario C,"Moderate urgency, several moderate abnormalities"
+Lata Patel,Scenario B,Mildly abnormal patient
+Nisha Nair,Scenario J,High pain but stable vitals
+Vikram Gupta,Scenario B,Mildly abnormal patient
+Nitin Chaudhary,Scenario D,High-severity but non-critical
+Aarti Jain,Scenario G,Extremely abnormal SpO2
+Anil Mehta,Scenario A,"Completely stable patient, normal vitals"
+Kirti Dixit,Scenario H,Extreme heart rate
+Lata Chaudhary,Scenario B,Mildly abnormal patient
+Rohan Pillai,Scenario B,Mildly abnormal patient
+Sunita Mishra,Scenario B,Mildly abnormal patient
+Swati Sharma,Scenario L,Tie case group 4
+Harish Jain,Scenario E,Unresponsive patient
+Bhavna Bhat,Scenario A,"Completely stable patient, normal vitals"
+Tarun Pillai,Scenario D,High-severity but non-critical
+Kirti Malhotra,Scenario A,"Completely stable patient, normal vitals"
+Anita Mehta,Scenario K,Borderline case (SBP_90)
+Sita Desai,Scenario K,Borderline case (SBP_80)
+Anil Bose,Scenario K,Borderline case (SpO2_88)
+Anjali Agarwal,Scenario A,"Completely stable patient, normal vitals"
+Karan Mishra,Scenario C,"Moderate urgency, several moderate abnormalities"
+Lata Thakur,Scenario A,"Completely stable patient, normal vitals"
+Rahul Chauhan,Scenario B,Mildly abnormal patient
+Aakash Kumar,Scenario B,Mildly abnormal patient
+Preeti Agarwal,Scenario B,Mildly abnormal patient
+Anil Yadav,Scenario B,Mildly abnormal patient
